@@ -1,0 +1,6 @@
+@AzureTableStoragePractice_HostAddress = http://localhost:5183
+
+GET {{AzureTableStoragePractice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AzureStorageLibrary/AzureStorageLibrary.csproj" />
+  <Project Path="AzureTableStoragePractice/AzureTableStoragePractice.csproj" />
+</Solution>
